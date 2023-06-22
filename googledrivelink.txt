@@ -1,1 +1,2 @@
 https://drive.google.com/file/d/1i2Wh0tNu5XeG7ASwp9Q3YD1A-flNpYw1/view?usp=drivesdk
+video : jenkins cicd pipelining, installation of git plugins, then port 8080, and then SonarQube and Sync:  https://drive.google.com/file/d/1ILhR4TcQ8LmD5YF4grYMdvZc_KmzHUD-/view?usp=drivesdk
